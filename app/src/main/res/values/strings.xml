@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpeedAppTester</string>
+    <string name="enter_your_speed_km_h" translatable="false" >Enter your speed in km/h</string>
+    <string name="check_speed" translatable="false" >"check speed "</string>
+</resources>
